@@ -73,8 +73,7 @@ Me chamo Vítor Camargo da Silva Oliveira, tenho 20 anos e sou nascido e criado 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
 />
-
-<br/>
+<a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
 <br/>
 
 ### 📊 Estatísticas
