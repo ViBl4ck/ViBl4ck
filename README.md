@@ -1,6 +1,6 @@
 ## Opa! Aqui é o Black
 
-Me chamo Vítor Camargo da Silva Oliveira, tenho 20 anos e sou nascido e criado em Brasília. Concluí o ensino médio no SIGMA, com o curso técnico em arquitetura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Sou intrigado por tecnologia, design e música e possuo ideias de alguns projetos futuros divulgados no Instagram, com o perfil chamado "[vitorcdso](https://www.instagram.com/vitorcdso/), e ou também através do X, com o perfil chamado "[VBlack](https://x.com/CsoVitor)".
+Me chamo Vítor Camargo da Silva Oliveira, tenho 20 anos e sou nascido e criado em Brasília. Concluí o ensino médio no SIGMA, com o curso técnico em arquitetura. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no CEUB. Sou intrigado por tecnologia, design e música e possuo ideias de alguns projetos futuros divulgados no Instagram, com o perfil chamado "[vitorcdso](https://www.instagram.com/vitorcdso/)", e ou também através do X, com o perfil chamado "[VBlack](https://x.com/CsoVitor)".
 
 - ⚡ Fato curioso: tbm sei mexer com softwares de engenharia e arquitetura 
 - 📤 contato: "[Vitor (Black) Camargo ](www.linkedin.com/in/vítor-camargo-211625350)"/ e-mail vitorcdso@gmail.com
@@ -56,14 +56,6 @@ Me chamo Vítor Camargo da Silva Oliveira, tenho 20 anos e sou nascido e criado 
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
 />
 <img 
     align="left" 
